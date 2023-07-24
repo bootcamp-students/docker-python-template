@@ -1,4 +1,4 @@
-# **SQL HEROES TEMPLATE** 
+
 
 ## Setup
 - After creating your own repo from the template, create a local copy either with the Github CLI tool (recommended) or a git clone.

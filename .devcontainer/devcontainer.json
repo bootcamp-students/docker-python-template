@@ -13,8 +13,8 @@
             },
             "extensions": [
                 "ms-python.python",
-                "mtxr.sqltools",
-                "cweijan.vscode-database-client2"
+                "cweijan.vscode-database-client2",
+		"rangav.vscode-thunder-client"
             ]
         }
     }
